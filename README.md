@@ -1,4 +1,3 @@
-# Автор: Федорчук Дмитрий Сергеевич DEVOPS-33
 
 # Домашнее задание к занятию «Управление доступом»
 
@@ -82,8 +81,4 @@
 
 Согласно манифесту роли и ее привязке к Namespace, у пользователя `staff` есть доступ подам, их логам и описанию.
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-44/blob/main/SRC/deployment.yaml
-
-   Ссылка на манифест Role - https://github.com/DemoniumBlack/fedorchukds-devops-33-44/blob/main/SRC/role.yaml
-
-   Ссылка на манифест RoleBinding - https://github.com/DemoniumBlack/fedorchukds-devops-33-44/blob/main/SRC/rolebinding.yaml
+5. Ссылка на манифест https://github.com/osipovtema/K8s7/tree/main/SRC
